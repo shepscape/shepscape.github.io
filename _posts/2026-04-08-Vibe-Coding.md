@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mengenal Vibe Coding"
+title: "Mengenal Vibe Coding: Paradigma Baru Pemrograman di Era AI"
 description: "Pembahasan terkait apa itu vibe coding, bagaimana penerapannya serta apa saja sisi positif dan negatifnya"
 comments: true
 keywords: "Blog, Vibe Coding, Programming"
