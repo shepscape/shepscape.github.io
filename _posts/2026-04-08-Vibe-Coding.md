@@ -19,7 +19,7 @@ Sebenarnya, apa sih *Vibe Coding* itu?
 
 Singkatnya, **Vibe Coding** adalah pergeseran cara kita membangun sesuatu. Kalau dulu kita harus berkutat dengan setiap baris kode, *debugging* titik koma yang hilang, atau pusing mikirin struktur data yang rumit, sekarang kita mulai masuk ke era di mana **ide dan arahan (vibe)** jadi lebih utama.
 
-Berkat bantuan AI yang makin canggih, peran kita bergeser dari "penulis" menjadi "mandor". Kita memberikan "getaran" atau visi tentang apa yang ingin kita buat, dan biarkan sistem yang mengeksekusi detail teknisnya.
+Berkat bantuan AI yang makin canggih, peran kita bergeser dari "penulis" menjadi "mandor". Kita memberikan "perintah" atau visi tentang apa yang ingin kita buat, dan biarkan sistem yang mengeksekusi detail teknisnya.
 
 ---
 
