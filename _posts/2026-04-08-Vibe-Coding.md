@@ -27,7 +27,9 @@ Bayangkan kita ingin membuat aplikasi berbasis web untuk daftar belanja sederhan
 * **Vibe Coding:** Kita membuka *code editor* berbasis AI dan memberikan perintah:
     > *"Buatkan aplikasi daftar belanja dengan desain minimalis. Pastikan ada tombol tambah dan hapus, serta otomatis tersimpan di browser."*
 
-AI kemudian akan menghasilkan seluruh kode tersebut dalam hitungan detik. Jika tampilannya kurang pas, kita tinggal memberikan prompt tambahan : > *"Ubah sudut tombolnya menjadi lebih bulat (rounded) agar terlihat modern,"* 
+AI kemudian akan menghasilkan seluruh kode tersebut dalam hitungan detik. Jika tampilannya kurang pas, kita tinggal memberikan prompt tambahan : 
+    > *"Ubah sudut tombolnya menjadi lebih bulat (rounded) agar terlihat modern,"* 
+
 dan sistem akan memperbaruinya seketika.
 
 ---
