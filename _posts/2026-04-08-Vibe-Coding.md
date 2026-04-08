@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Coding Pake "Vibe"? Masa Depan atau Cuma Hype?'
-description: "Pembahasan terkait apa itu vibe coding, bagaimana penerapannya serta apa saja sisi positif dan negatifnya"
+description: "Pembahasan terkait apa itu vibe coding, dan apa yang membuatnya menarik"
 comments: true
 keywords: "Blog, Vibe Coding, Programming"
 Author: Felix Rizky Lesmana
